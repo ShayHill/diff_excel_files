@@ -1,0 +1,6 @@
+Update-PythonVenv.ps1
+.vimrc
+.vimspector.json
+binaries
+dev-requirements.txt
+tox.ini
